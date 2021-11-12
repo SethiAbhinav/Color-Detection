@@ -9,7 +9,7 @@ import pandas as pd # read data
 import copy         # caching
 ```
 
-#### This is a program that uses OpenCV to process colours in am image. Following are the features:
+#### This is a program that uses OpenCV to process colours in an image. Following are the features:
   1. Read the image file. 
   2. Callback event on mouse click.
   3. Shows the color name and RGB values of the pixel that was clicked on.
